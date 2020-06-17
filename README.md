@@ -4,7 +4,7 @@ To understand the the basics of machine learning algorithm, I have build this re
 
 The description of the working of ML models are as follows:
 
-# KNN:
+# KNN Algorithm:
 KNN (k-Nearest Neighbors) model is an algorithm that captures all the provided data and predicts the new data based on a specific similarity criterion. This similarity criteria can be calculated in terms of minkowski distance, euclidean distance or manhattan distance. 
 To build the whole algorithm of KNN model, knn_model function is made which has 2 input parameters as k-value and p-value. It has been done by following procedure:
 1. Counter variables is initialized to count the number of rightly predicted entries
